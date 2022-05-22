@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Krittika Krishnan
-- 👀 I’m interested in variant calling, Transposable element analysis, Genome assembly and scaffolding
+- 👀 I’m interested in Variant calling, Transposable element analysis, Genome assembly and scaffolding
 - 🌱 I’m currently improving my bash scripting and python programming skills
 - 📫 Reach me at k.krittika25@gmail.com
 
