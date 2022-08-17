@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Krittika Krishnan
-- 👀 I’m interested in Variant calling, Transposable element analysis, Genome assembly and scaffolding
-- 🌱 I’m currently improving my bash scripting and python programming skills
-- 📫 Reach me at krishnankrittika25@gmail.com
+- Hi, I'm Krittika Krishnan
+- I am enthusiastic about finding interesting information in large datasets. I work in Dr. Elizabeth Cooper's lab at UNC Charlotte
+- I’m currently improving my bash shell scripting, R and python programming skills
+- Reach me at krishnankrittika25@gmail.com
 
 <!---
 Krittika25/Krittika25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
